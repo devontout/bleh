@@ -1,0 +1,156 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "200 Inventory Size",
+      "enabled": true
+    },
+    
+    {
+      "name": "AlienPets",
+      "enabled": false
+    },
+    
+    {
+      "name": "assault-rifle",
+      "enabled": true
+    },
+    
+    {
+      "name": "auto-deploy-combat-robots",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-balancer-performance",
+      "enabled": true
+    },
+    
+    {
+      "name": "BetterRoboport",
+      "enabled": true
+    },
+    
+    {
+      "name": "CheaperAndMoreCircuits",
+      "enabled": true
+    },
+    
+    {
+      "name": "clock",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dirt_Path",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "factory-inspector",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "holographic_signs",
+      "enabled": true
+    },
+    
+    {
+      "name": "Honk",
+      "enabled": true
+    },
+    
+    {
+      "name": "infinity-invo",
+      "enabled": true
+    },
+    
+    {
+      "name": "logistic-cargo-wagon",
+      "enabled": true
+    },
+    
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    
+    {
+      "name": "Pro-Flashlight",
+      "enabled": true
+    },
+    
+    {
+      "name": "Rampant",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantArsenal",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantEvolution",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantIndustry",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "sonaxaton-infinite-resources",
+      "enabled": true
+    },
+    
+    {
+      "name": "sushi",
+      "enabled": true
+    },
+    
+    {
+      "name": "TrainAnnouncements",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": true
+    },
+    
+    {
+      "name": "Waterfill_v17",
+      "enabled": true
+    },
+    
+    {
+      "name": "ZigQOL",
+      "enabled": true
+    }
+  ]
+}
