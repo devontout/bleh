@@ -87,6 +87,11 @@
       "name": "logistic-cargo-wagon",
       "enabled": true
     },
+        
+    {
+      "name": "Mining_Drones_GammaEdition",
+      "enabled": true
+    },
     
     {
       "name": "Power Armor MK3",
